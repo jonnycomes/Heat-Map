@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    color: #550D00;
+}
+
+#tooltip {
+    position: absolute;
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    width: 150px;
+    text-align: left;
+    font-size: 1.25em;
+}
+
+footer {
+    color: #550D00;
+}
+
+#creater {
+    color: #550D00;
+    text-decoration: none;
+}
